@@ -6,6 +6,12 @@ do ficheiro para descrever o seu conteúdo, propósito e, em alguns casos, a sua
 #Para o que serve
 """ Para criar uma documentação e orientar o desenvolvedor como utilizar aquele código """
 
-#Diferença de cabeçalho para docstring
+#Docstring e para o que serve
 """ Docstring strings usadas para documentar módulos, classes, funções e métodos. São strings literais,
 geralmente delimitadas por aspas triplas (# ou """ """) """
+
+#Diferença
+""" 
+Cabeçalhos: Passa dados, cobre o código de maneira geral, entrega contexto e instrução
+Docstring: Serve para comentários e documentação especificas no código, sobre funções, métodos 
+ """
